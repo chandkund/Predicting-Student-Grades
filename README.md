@@ -86,3 +86,8 @@ python Predicting Student Grades.py
 ## Results
 
 The project successfully predicted student grades using various regression models. The best model provided accurate predictions of G1, G2, and G3, highlighting the importance of factors like study time, family support, and alcohol consumption.
+
+## LICENSE
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
