@@ -1,7 +1,3 @@
-### GitHub README for Predicting Student Grades
-
----
-
 # 🎓 Predicting Student Grades
 
 ## Overview
@@ -90,20 +86,3 @@ python student_grade_prediction.py
 ## Results
 
 The project successfully predicted student grades using various regression models. The best model provided accurate predictions of G1, G2, and G3, highlighting the importance of factors like study time, family support, and alcohol consumption.
-
----
-
-### LinkedIn Post for Predicting Student Grades
-
-🚀 EXCITED TO SHARE MY PROJECT 18: PREDICTING STUDENT GRADES 🎓📊
-
-In this project, I developed a predictive model to estimate student grades (G1, G2, G3) based on various features like study habits, family background, and health. This model can assist in identifying students who may need additional support to improve their academic performance.
-
-📊 **Key Highlights**:  
-- **Data Exploration**: Analyzed key features influencing student grades.  
-- **Model Building**: Built regression models to predict grades accurately.  
-- **Insights**: Identified study time and family support as crucial factors for academic success.
-
-🔗 **Explore the project**: Dive into the details on my GitHub: [GitHub Repository](https://lnkd.in/gGCNevzR)  
-
-#DataScience #MachineLearning #StudentGradesPrediction #Python #GitHub #RegressionModels #Education
