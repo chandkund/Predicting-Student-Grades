@@ -65,11 +65,11 @@ The dataset includes the following features:
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/chandkund/Student-Grade-Prediction.git
+   git clone https://github.com/chandkund/Predicting Student Grades.git
    ```  
 2. **Navigate to the project directory**:  
    ```bash
-   cd Student-Grade-Prediction
+   cd Predicting Student Grades
    ```  
 3. **Install required packages**:  
    ```bash
@@ -80,7 +80,7 @@ The dataset includes the following features:
 
 Run the script to predict student grades:  
 ```bash
-python student_grade_prediction.py
+python Predicting Student Grades.py
 ```
 
 ## Results
