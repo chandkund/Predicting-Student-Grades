@@ -69,11 +69,11 @@ The dataset includes the following features:
    ```  
 2. **Navigate to the project directory**:  
    ```bash
-   cd Predicting Student Grades
+   cd Predicting Student Grades 
    ```  
 3. **Install required packages**:  
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt 
    ```
 
 ## Usage
