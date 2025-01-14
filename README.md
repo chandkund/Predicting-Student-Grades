@@ -8,7 +8,7 @@ This project predicts student grades (G1, G2, G3) based on various features such
 
 1. **Data Exploration**  
    - Analyzed the distribution and relationships between features like study time, family support, and internet access.        
-   - Visualized the data to understand patterns and detect any anomalies.  
+   - Visualized the data to understand patterns and detect any anomalies.       
 
 2. **Data Preprocessing**  
    - Cleaned and prepared the dataset by handling missing values and encoding categorical variables.   
