@@ -11,7 +11,7 @@ This project predicts student grades (G1, G2, G3) based on various features such
    - Visualized the data to understand patterns and detect any anomalies.  
 
 2. **Data Preprocessing**  
-   - Cleaned and prepared the dataset by handling missing values and encoding categorical variables.  
+   - Cleaned and prepared the dataset by handling missing values and encoding categorical variables.   
    - Scaled numerical features to ensure optimal model performance.  
 
 3. **Model Implementation**  
